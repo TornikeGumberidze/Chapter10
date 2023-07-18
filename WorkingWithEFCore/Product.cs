@@ -22,7 +22,10 @@ public class Product
     public int CategoryId { get; set; }
     public virtual Category Category { get; set; } = null!;
 
-
+    public override string ToString()
+    {
+        return $"Product {ProductName} with id {ProductId} costs {Cost:C} has category id {CategoryId} and is left {Stock} pieces";
+    }
     // ProductId, ProductName,
     // UnitPrice, UnitsInStock,
     //Discontinued, and CategoryId.

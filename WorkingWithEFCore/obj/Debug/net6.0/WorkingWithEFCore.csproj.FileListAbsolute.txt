@@ -75,3 +75,6 @@ C:\Users\tornike.gumberidze\source\repos\Chapter10\WorkingWithEFCore\obj\Debug\n
 C:\Users\tornike.gumberidze\source\repos\Chapter10\WorkingWithEFCore\obj\Debug\net6.0\WorkingWithEFCore.pdb
 C:\Users\tornike.gumberidze\source\repos\Chapter10\WorkingWithEFCore\obj\Debug\net6.0\WorkingWithEFCore.genruntimeconfig.cache
 C:\Users\tornike.gumberidze\source\repos\Chapter10\WorkingWithEFCore\obj\Debug\net6.0\ref\WorkingWithEFCore.dll
+C:\Users\tornike.gumberidze\source\repos\Chapter10\WorkingWithEFCore\bin\Debug\net6.0\Humanizer.dll
+C:\Users\tornike.gumberidze\source\repos\Chapter10\WorkingWithEFCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tornike.gumberidze\source\repos\Chapter10\WorkingWithEFCore\bin\Debug\net6.0\Newtonsoft.Json.dll

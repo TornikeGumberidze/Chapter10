@@ -23,5 +23,15 @@ public class Category
         // initialize the navigation property to an empty collection
         Products = new HashSet<Product>();
     }
+    public override string ToString()
+    {
+        StringBuilder sb = new StringBuilder();
+        foreach (var item in Products)
+        {
+            sb.Append(item.ToString() + '\n');
+        }
+        string st = sb.ToString();
+        return $"Category {CategoryName} has id {CategoryId} description: \t{Description}. \n{CategoryName} has the following products: \n" + sb;
+    }
 
 }
